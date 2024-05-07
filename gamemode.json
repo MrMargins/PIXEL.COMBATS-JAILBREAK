@@ -1,0 +1,42 @@
+{
+  "Name": "<size=69><color=blue>ПОБЕГ</color><color=blue> ИЗ ТЮРЬМЫ</color></size> ",
+  "Description": "<B> by Bolsoi</B>\n<size=15>целью синих является сбежать в зону конца карты задача охраны не дать не одному збежать</size>",
+  "StartClientVersion": 402,
+  "MapFilter": {
+    "IsBlank": false,
+    "HasParcourEnd": true
+  },
+  "MapLists": [
+    {
+      "MapListId": 9407,
+      "Name": "карты для побега из тюрьмы"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "PartialDesruction",
+        "DisplayName": "GmParams/PartialDesruction",
+        "Default": true
+      },
+      {
+        "Name": "Build",
+        "DisplayName": "Зона Строительных материалов",
+        "Default": true
+      },
+      {
+        "Name": "Melee",
+        "DisplayName": "Зона Холодного оружия",
+        "Default": true
+      },
+      {
+        "Name": "Main",
+        "DisplayName": "Зона Основного оружия"
+      },
+      {
+        "Name": "Secondary",
+        "DisplayName": "Зона Вторичного оружия"
+      }
+    ]
+  }
+}

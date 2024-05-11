@@ -1,6 +1,6 @@
 {
-  "Name": "<size=69><color=blue>ПОБЕГ</color><color=blue> ИЗ ТЮРЬМЫ</color></size> ",
-  "Description": "<B> by Bolsoi</B>\n<size=15>целью синих является сбежать в зону конца карты задача охраны не дать не одному збежать</size>",
+  "Name": "<color=blue>ПОБЕГ</color><color=blue> ИЗ ТЮРЬМЫ</color>",
+  "Description": "целью синих является сбежать в зону конца карты,задача охраны не дать не одному збежать",
   "StartClientVersion": 402,
   "MapFilter": {
     "IsBlank": false,
